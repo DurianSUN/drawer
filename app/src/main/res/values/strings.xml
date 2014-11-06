@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">menu-drawer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menus_array">
+        <item>Index</item>
+        <item>Articles</item>
+        <item>Account</item>
+        <item>Setting</item>
+    </string-array>
+
+
+
+    <string name="drawer_close">drawer close</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_article_detail">ArticleDetailActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="latest_articles">        http://mobile.fundsupermart.com.sg/mobile/datafeedretriever?mid=LatestArticles&amp;locale=en</string>
+    <string name="article_detail_url">        https://secure.fundsupermart.com/main/research/viewHTMLMobileAndroid.tpl?locale=en&amp;articleNo=</string>
+    <string name="languages">language</string>
+    <string name="title_activity_select_languages">SelectLanguagesActivity</string>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Chinese(Simple Chinese)</item>
+    </string-array>
+
+</resources>

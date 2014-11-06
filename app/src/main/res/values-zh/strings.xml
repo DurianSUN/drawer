@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">menu-drawer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">设置</string>
+
+    <string-array name="menus_array">
+        <item>首页</item>
+        <item>文章</item>
+        <item>帐户</item>
+        <item>设置</item>
+    </string-array>
+
+    <string name="drawer_close">drawer close</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_article_detail">文章详情</string>
+    <string name="hello_world">你好世界！</string>
+    <string name="latest_articles">
+        http://mobile.fundsupermart.com.sg/mobile/datafeedretriever?mid=LatestArticles&amp;locale=zh
+    </string>
+    <string name="article_detail_url">
+        https://secure.fundsupermart.com/main/research/viewHTMLMobileAndroid.tpl?locale=zh&amp;articleNo=
+    </string>
+    <string name="languages">语言</string>
+    <string-array name="language">
+        <item>英语</item>
+        <item>中文（简体）</item>
+    </string-array>
+</resources>
