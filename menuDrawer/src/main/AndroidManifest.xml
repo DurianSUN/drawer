@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme" >
     <activity
         android:name=".activity.MainActivity"
-        android:label="@string/title_activity_main" >
+        android:label="@string/app_name" >
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
@@ -20,16 +20,16 @@
     <activity
         android:name=".activity.ArticleDetailActivity"
         android:label="@string/title_activity_article_detail" >
-        <intent-filter>
+        <!--<intent-filter>
             <category android:name="android.intent.category.DEFAULT" />
-        </intent-filter>
+        </intent-filter>-->
     </activity>
     <activity
         android:name=".activity.SelectLanguagesActivity"
         android:label="@string/title_activity_select_languages" >
-        <intent-filter>
+        <!--<intent-filter>
             <category android:name="android.intent.category.DEFAULT" />
-        </intent-filter>
+        </intent-filter>-->
     </activity>
     </application>
 </manifest>

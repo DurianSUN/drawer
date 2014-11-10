@@ -29,4 +29,10 @@
         <item>Chinese(Simple Chinese)</item>
     </string-array>
 
+    <string name="user_name">User Name</string>
+    <string name="user_password">User Password</string>
+    <string name="btn_add">Add User</string>
+    <string name="user_name_hint">Enter Username</string>
+    <string name="user_password_hint">Enter password</string>
+
 </resources>
